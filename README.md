@@ -20,4 +20,7 @@ This game works as follows:
   - Button 2 with D1 pin
   - Button 3 with D2 pin
  
-  
+  ##images
+https://github.com/mark1624029-svg/protoswitch/blob/main/images/Screenshot%202025-11-21%20194034.png
+https://github.com/mark1624029-svg/protoswitch/blob/main/images/Screenshot%202025-11-21%20194012.png
+https://github.com/mark1624029-svg/protoswitch/blob/main/images/Screenshot%202025-11-21%20193758.png
